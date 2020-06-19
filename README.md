@@ -4,4 +4,4 @@ This is a program to analyze X-ray and Gamma-ray spectrum of samples, form which
 
 See *Report.pdf* for details.
 
-[Report](https://github.com/jingxuxie/SpectrumAnalysis/edit/master/Report.pdf)
+[Report](https://github.com/jingxuxie/SpectrumAnalysis/blob/master/Report.pdf)
